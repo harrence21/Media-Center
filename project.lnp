@@ -1,0 +1,33 @@
+--cpu Cortex-M3
+".\startup_lpc17xx.o"
+".\adc.o"
+".\core_cm3.o"
+".\glcd_spi_lpc1700.o"
+".\irq.o"
+".\led.o"
+".\kbd.o"
+".\main.o"
+".\usbuser.o"
+".\usbhw.o"
+".\usbdmain.o"
+".\usbdesc.o"
+".\usbcore.o"
+".\adcuser.o"
+".\game1.o"
+".\game2.o"
+".\system_lpc17xx.o"
+".\220px-basketball.o"
+".\arrow .o"
+".\bucket.o"
+".\cherry.o"
+".\whiteforbucket.o"
+".\bmw1.o"
+".\gtr.o"
+".\redcup.o"
+".\bomb.o"
+".\bas.o"
+C:\Keil\ARM\RV31\LIB\RTX_CM3.LIB
+--library_type=microlib --strict --scatter ".\project.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\project.map" -o .\project.axf

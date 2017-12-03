@@ -1,0 +1,13 @@
+.\game1.o: game1.c
+.\game1.o: C:\Keil\ARM\Inc\NXP\LPC17xx\LPC17xx.H
+.\game1.o: C:\Keil\ARM\CMSIS\Include\core_cm3.h
+.\game1.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\game1.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\game1.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\game1.o: C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h
+.\game1.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+.\game1.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\game1.o: GLCD.h
+.\game1.o: KBD.h
+.\game1.o: LED.h
+.\game1.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
